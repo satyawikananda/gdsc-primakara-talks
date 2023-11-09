@@ -7,8 +7,8 @@ preload: false
 # https://sli.dev/custom/highlighters.html
 highlighter: shiki
 themeConfig:
-  logoHeader: '/assets/github-mark.svg'
-  eventLogo: '/assets/GDSC Logo.png '
+  logoHeader: 'https://res.cloudinary.com/dw2bib7za/image/upload/v1699553948/gdsc-primakara-talk/assets/oytuxp3c7hjxqoplq3fb.svg'
+  eventLogo: 'https://res.cloudinary.com/dw2bib7za/image/upload/v1699553948/gdsc-primakara-talk/assets/u8chtgtoqorpflzkjhtz.png'
   eventUrl: 'https://bit.ly/StartUpDayNovember10'
 transition: slide-left
 css: unocss
@@ -23,7 +23,7 @@ Satya Wikananda
 
 <div class="abs-br mx-14 my-12 flex">
   <div class="ml-3 flex flex-col text-left gap-1">
-    <img src="/assets/Primakara Developers Logo.png" w-25 />
+    <img src="https://res.cloudinary.com/dw2bib7za/image/upload/v1699553950/gdsc-primakara-talk/assets/ffcfkvy4qxomwvubyvt5.png" w-25 />
   </div>
 </div>
 
@@ -136,7 +136,7 @@ media: https://media.giphy.com/media/59bo7PVAiXHV59QCFG/giphy.gif
 layout: center
 ---
 # 👎😠
-<img src="https://i.ibb.co/fMdXZRg/pr1.png" rounded />
+<img src="https://res.cloudinary.com/dw2bib7za/image/upload/v1699554191/gdsc-primakara-talk/assets/zt4wskcfb14viqw9jx4f.png" rounded />
 
 ---
 layout: center
@@ -164,7 +164,7 @@ media: https://media.giphy.com/media/lKXEBR8m1jWso/giphy.gif
 ---
 layout: text-image
 reverse: true
-media: /assets/github-profile.png
+media: https://res.cloudinary.com/dw2bib7za/image/upload/v1699553953/gdsc-primakara-talk/assets/pp5otlkkif0ukycrxuda.png
 ---
 # GitHub Profile Readme
 
@@ -194,7 +194,7 @@ layout: center
 
 <div text-center mx-auto>
   <h1 font-bold>Have Connections With Other Developers</h1>
-  <img src="/assets/connections.png" mx-auto rounded w-full />
+  <img src="https://res.cloudinary.com/dw2bib7za/image/upload/v1699553947/gdsc-primakara-talk/assets/igbzztwo817nhvdo7gmt.png" mx-auto rounded w-full />
 </div>
 
 ---
@@ -203,7 +203,7 @@ layout: center
 
 <div text-center mx-auto>
   <h1 font-bold>Get some full-time or even freelance work</h1>
-  <img src="/assets/jobs.png" mx-auto rounded w-150 />
+  <img src="https://res.cloudinary.com/dw2bib7za/image/upload/v1699553949/gdsc-primakara-talk/assets/vdxd2gcvdiaygqc9nums.png" mx-auto rounded w-150 />
 </div>
 
 ---
@@ -212,7 +212,7 @@ layout: center
 
 <div text-center mx-auto>
   <h1 font-bold>Sponsors 😇</h1>
-  <img src="/assets/sponsor.png" mx-auto rounded w-100 />
+  <img src="https://res.cloudinary.com/dw2bib7za/image/upload/v1699553952/gdsc-primakara-talk/assets/hxuq0jn8uy2ih6oi1hwq.png" mx-auto rounded w-100 />
 </div>
 
 ---
@@ -221,7 +221,7 @@ layout: new-section
 
 # Showcase projects
 
-<img src="/assets/showcase-1.png" mx-auto rounded w-150 />
+<img src="https://res.cloudinary.com/dw2bib7za/image/upload/v1699553951/gdsc-primakara-talk/assets/v8oatwmsccnrrdc3f1ev.png" mx-auto rounded w-150 />
 
 ---
 layout: center
@@ -229,7 +229,7 @@ layout: center
 
 <div class="flex flex-row justify-center items-center space-x-4">
   <div class="flex flex-col justify-center">
-    <img src="/assets/berita-indo.png" w-100 mx-auto rounded border />
+    <img src="https://res.cloudinary.com/dw2bib7za/image/upload/v1699553947/gdsc-primakara-talk/assets/gqpibgsrvinhiqqkf7ev.png" w-100 mx-auto rounded border />
     <div text-center>
       <p font-bold>Berita Indo API</p>
       <div flex-row justify-center mb-3>
@@ -247,7 +247,7 @@ layout: center
   
   <v-clicks>
   <div class="flex flex-col justify-center">
-    <img src="/assets/elucidator.png" w-100 mx-auto rounded />
+    <img src="https://res.cloudinary.com/dw2bib7za/image/upload/v1699553948/gdsc-primakara-talk/assets/tbdhqd3rb6m5wflhrufs.png" w-100 mx-auto rounded />
     <div text-center>
       <p font-bold>Elucidator Blog Starter</p>
       <div flex-row justify-center mb-3>
@@ -271,7 +271,7 @@ layout: center
 
 <div class="flex flex-row justify-center items-center space-x-4">
   <div class="flex flex-col justify-center">
-    <img src="/assets/loker.png" w-100 mx-auto rounded border />
+    <img src="https://res.cloudinary.com/dw2bib7za/image/upload/v1699553952/gdsc-primakara-talk/assets/eu1oohghqyyoc5z4cskg.png" w-100 mx-auto rounded border />
     <div text-center>
       <p font-bold>Awesome Loker IT Indonesia</p>
       <div flex-row justify-center mb-3>
@@ -287,7 +287,7 @@ layout: center
 
   <v-clicks>
   <div class="flex flex-col justify-center">
-    <img src="/assets/rs.png" w-100 mx-auto rounded />
+    <img src="https://res.cloudinary.com/dw2bib7za/image/upload/v1699553954/gdsc-primakara-talk/assets/xar60ozjesbh9yhk6rks.png" w-100 mx-auto rounded />
     <div text-center>
       <p font-bold>RS Bed Covid Indo API</p>
       <div flex-row justify-center mb-3>
